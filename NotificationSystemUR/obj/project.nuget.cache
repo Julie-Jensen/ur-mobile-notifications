@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VhNgdjXkweSOEaMS0YXTeXxsl0YRcy3XC7iUkTtVR3E9WaNYzOm32TdB/8vsbAcmbL0Xn5SyPkauwfIg4L6vpQ==",
+  "success": true,
+  "projectFilePath": "E:\\swof21\\ProjectUR\\NotificationSystemUR\\NotificationSystemUR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julie Jensen\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Julie Jensen\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Julie Jensen\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
